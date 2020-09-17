@@ -1,0 +1,26 @@
+!game >>
+{
+6 - x x x x x x x x x x x x x x x x x*
+x x - x x x x x x x x - x x x x x - 1 *
+x x x x x - x - x x - x x x x x - x x *
+x x - x x x x x - x x x x x x x x x x *
+x x x - x x x x x x - x x x x x - x x *
+x x x x - x x x - x x x x x x - x x x *
+- x x x x - x - x x - x x x - x x x x *
+x - x x x x x x x - x x x - x x x - x *
+x x - x x x x x - x x x - x x x - x x *
+x x x - x x x x x - x x x - x - x x x *
+x x x x - x x x x x - x x x x - x x x *
+x x x x x x x x 3 x 4 x x x - x - x x *
+x x x x - x x x - x x x x x x x x x x *
+x x x x x - x - x x x x x x - x - x x *
+x x x x x x x x x x x x x x 2 - 5 x x *
+x x x x x x x x x x x x - x - x - x - *
+x x x x x x x x x x x x x - x x x - x
+}
+<<
+!moves ->
+v r _ l , l _ r , r , d __ d __
+d _ r __ l , u __ l , d _ l , u
+__ d _ d , l , l &
+<=
